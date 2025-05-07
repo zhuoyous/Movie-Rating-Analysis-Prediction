@@ -1,0 +1,490 @@
+,movie_title,num_user_for_reviews,plot_keywords,genres,time,title_year,imdb_score,aspect_ratio,num_critic_for_reviews,movie_link
+0,Avengers: Endgame,9300,time travel,Action,181,2019,8.4,,583,http://www.imdb.com/title/tt4154796/
+1,Avengers: Infinity War,4400,death of recurring character,Action,149,2018,8.4,,624,http://www.imdb.com/title/tt4154756/
+2,Star Wars: Episode IX - The Rise of Skywalker,7900,evil,Action,141,2019,6.5,2.39,518,http://www.imdb.com/title/tt2527338/
+3,Black Panther,3400,marvel cinematic universe,Action,134,2018,7.3,2.39,505,http://www.imdb.com/title/tt1825683/
+4,Incredibles 2,1100,,Animation,118,2018,7.6,2.39,405,http://www.imdb.com/title/tt3606756/
+5,Black Widow,2900,superheroine,Action,134,2021,6.7,2.39,364,http://www.imdb.com/title/tt3480822/
+6,Fantastic Beasts: The Crimes of Grindelwald,1500,wizard,Adventure,134,2018,6.5,2.39,350,http://www.imdb.com/title/tt4123430/
+7,Onward,762,,Animation,102,2020,7.4,2.39,326,http://www.imdb.com/title/tt7146812/
+8,Mulan,2900,,Action,115,2020,5.7,2.39,255,http://www.imdb.com/title/tt4566758/
+9,The Suicide Squad,3200,,Action,132,2021,7.3,1.9,353,http://www.imdb.com/title/tt6334354/
+10,Avengers: Endgame,9300,time travel,Action,181,2019,8.4,,583,http://www.imdb.com/title/tt4154796/
+11,Avengers: Infinity War,4400,death of recurring character,Action,149,2018,8.4,,624,http://www.imdb.com/title/tt4154756/
+12,Star Wars: Episode IX - The Rise of Skywalker,7900,evil,Action,141,2019,6.5,2.39,518,http://www.imdb.com/title/tt2527338/
+13,Black Panther,3400,marvel cinematic universe,Action,134,2018,7.3,2.39,505,http://www.imdb.com/title/tt1825683/
+14,Incredibles 2,1100,,Animation,118,2018,7.6,2.39,405,http://www.imdb.com/title/tt3606756/
+15,Black Widow,2900,superheroine,Action,134,2021,6.7,2.39,364,http://www.imdb.com/title/tt3480822/
+16,Fantastic Beasts: The Crimes of Grindelwald,1500,wizard,Adventure,134,2018,6.5,2.39,350,http://www.imdb.com/title/tt4123430/
+17,Onward,762,,Animation,102,2020,7.4,2.39,326,http://www.imdb.com/title/tt7146812/
+18,Mulan,2900,,Action,115,2020,5.7,2.39,255,http://www.imdb.com/title/tt4566758/
+19,The Suicide Squad,3200,,Action,132,2021,7.3,1.9,353,http://www.imdb.com/title/tt6334354/
+20,Avengers: Endgame,9300,time travel,Action,181,2019,8.4,,583,http://www.imdb.com/title/tt4154796/
+21,Avengers: Infinity War,4400,death of recurring character,Action,149,2018,8.4,,624,http://www.imdb.com/title/tt4154756/
+22,Star Wars: Episode IX - The Rise of Skywalker,7900,evil,Action,141,2019,6.5,2.39,518,http://www.imdb.com/title/tt2527338/
+23,Black Panther,3400,marvel cinematic universe,Action,134,2018,7.3,2.39,505,http://www.imdb.com/title/tt1825683/
+24,Incredibles 2,1100,,Animation,118,2018,7.6,2.39,405,http://www.imdb.com/title/tt3606756/
+25,Black Widow,2900,superheroine,Action,134,2021,6.7,2.39,364,http://www.imdb.com/title/tt3480822/
+26,Fantastic Beasts: The Crimes of Grindelwald,1500,wizard,Adventure,134,2018,6.5,2.39,350,http://www.imdb.com/title/tt4123430/
+27,Onward,762,,Animation,102,2020,7.4,2.39,326,http://www.imdb.com/title/tt7146812/
+28,Mulan,2900,,Action,115,2020,5.7,2.39,255,http://www.imdb.com/title/tt4566758/
+29,The Suicide Squad,3200,,Action,132,2021,7.3,1.9,353,http://www.imdb.com/title/tt6334354/
+30,Avengers: Endgame,9300,time travel,Action,181,2019,8.4,,583,http://www.imdb.com/title/tt4154796/
+31,Avengers: Infinity War,4400,death of recurring character,Action,149,2018,8.4,,624,http://www.imdb.com/title/tt4154756/
+32,Star Wars: Episode IX - The Rise of Skywalker,7900,evil,Action,141,2019,6.5,2.39,518,http://www.imdb.com/title/tt2527338/
+33,Black Panther,3400,marvel cinematic universe,Action,134,2018,7.3,2.39,505,http://www.imdb.com/title/tt1825683/
+34,Incredibles 2,1100,,Animation,118,2018,7.6,2.39,405,http://www.imdb.com/title/tt3606756/
+35,Black Widow,2900,superheroine,Action,134,2021,6.7,2.39,364,http://www.imdb.com/title/tt3480822/
+36,Fantastic Beasts: The Crimes of Grindelwald,1500,wizard,Adventure,134,2018,6.5,2.39,350,http://www.imdb.com/title/tt4123430/
+37,Onward,762,,Animation,102,2020,7.4,2.39,326,http://www.imdb.com/title/tt7146812/
+38,Mulan,2900,,Action,115,2020,5.7,2.39,255,http://www.imdb.com/title/tt4566758/
+39,The Suicide Squad,3200,,Action,132,2021,7.3,1.9,353,http://www.imdb.com/title/tt6334354/
+40,Avengers: Endgame,9300,time travel,Action,181,2019,8.4,,583,http://www.imdb.com/title/tt4154796/
+41,Avengers: Infinity War,4400,death of recurring character,Action,149,2018,8.4,,624,http://www.imdb.com/title/tt4154756/
+42,Star Wars: Episode IX - The Rise of Skywalker,7900,evil,Action,141,2019,6.5,2.39,518,http://www.imdb.com/title/tt2527338/
+43,Black Panther,3400,marvel cinematic universe,Action,134,2018,7.3,2.39,505,http://www.imdb.com/title/tt1825683/
+44,Incredibles 2,1100,,Animation,118,2018,7.6,2.39,405,http://www.imdb.com/title/tt3606756/
+45,Black Widow,2900,superheroine,Action,134,2021,6.7,2.39,364,http://www.imdb.com/title/tt3480822/
+46,Fantastic Beasts: The Crimes of Grindelwald,1500,wizard,Adventure,134,2018,6.5,2.39,350,http://www.imdb.com/title/tt4123430/
+47,Onward,762,,Animation,102,2020,7.4,2.39,326,http://www.imdb.com/title/tt7146812/
+48,Mulan,2900,,Action,115,2020,5.7,2.39,255,http://www.imdb.com/title/tt4566758/
+49,The Suicide Squad,3200,,Action,132,2021,7.3,1.9,353,http://www.imdb.com/title/tt6334354/
+50,Avengers: Endgame,9300,time travel,Action,181,2019,8.4,,583,http://www.imdb.com/title/tt4154796/
+51,Avengers: Infinity War,4400,death of recurring character,Action,149,2018,8.4,,624,http://www.imdb.com/title/tt4154756/
+52,Star Wars: Episode IX - The Rise of Skywalker,7900,evil,Action,141,2019,6.5,2.39,518,http://www.imdb.com/title/tt2527338/
+53,Black Panther,3400,marvel cinematic universe,Action,134,2018,7.3,2.39,505,http://www.imdb.com/title/tt1825683/
+54,Incredibles 2,1100,,Animation,118,2018,7.6,2.39,405,http://www.imdb.com/title/tt3606756/
+55,Black Widow,2900,superheroine,Action,134,2021,6.7,2.39,364,http://www.imdb.com/title/tt3480822/
+56,Fantastic Beasts: The Crimes of Grindelwald,1500,wizard,Adventure,134,2018,6.5,2.39,350,http://www.imdb.com/title/tt4123430/
+57,Onward,762,,Animation,102,2020,7.4,2.39,326,http://www.imdb.com/title/tt7146812/
+58,Mulan,2900,,Action,115,2020,5.7,2.39,255,http://www.imdb.com/title/tt4566758/
+59,The Suicide Squad,3200,,Action,132,2021,7.3,1.9,353,http://www.imdb.com/title/tt6334354/
+60,Avengers: Endgame,9300,time travel,Action,181,2019,8.4,,583,http://www.imdb.com/title/tt4154796/
+61,Avengers: Infinity War,4400,death of recurring character,Action,149,2018,8.4,,624,http://www.imdb.com/title/tt4154756/
+62,Star Wars: Episode IX - The Rise of Skywalker,7900,evil,Action,141,2019,6.5,2.39,518,http://www.imdb.com/title/tt2527338/
+63,Black Panther,3400,marvel cinematic universe,Action,134,2018,7.3,2.39,505,http://www.imdb.com/title/tt1825683/
+64,Incredibles 2,1100,,Animation,118,2018,7.6,2.39,405,http://www.imdb.com/title/tt3606756/
+65,Black Widow,2900,superheroine,Action,134,2021,6.7,2.39,364,http://www.imdb.com/title/tt3480822/
+66,Fantastic Beasts: The Crimes of Grindelwald,1500,wizard,Adventure,134,2018,6.5,2.39,350,http://www.imdb.com/title/tt4123430/
+67,Onward,762,,Animation,102,2020,7.4,2.39,326,http://www.imdb.com/title/tt7146812/
+68,Mulan,2900,,Action,115,2020,5.7,2.39,255,http://www.imdb.com/title/tt4566758/
+69,The Suicide Squad,3200,,Action,132,2021,7.3,1.9,353,http://www.imdb.com/title/tt6334354/
+70,Avengers: Endgame,9300,time travel,Action,181,2019,8.4,,583,http://www.imdb.com/title/tt4154796/
+71,Avengers: Infinity War,4400,death of recurring character,Action,149,2018,8.4,,624,http://www.imdb.com/title/tt4154756/
+72,Star Wars: Episode IX - The Rise of Skywalker,7900,evil,Action,141,2019,6.5,2.39,518,http://www.imdb.com/title/tt2527338/
+73,Black Panther,3400,marvel cinematic universe,Action,134,2018,7.3,2.39,505,http://www.imdb.com/title/tt1825683/
+74,Incredibles 2,1100,,Animation,118,2018,7.6,2.39,405,http://www.imdb.com/title/tt3606756/
+75,Black Widow,2900,superheroine,Action,134,2021,6.7,2.39,364,http://www.imdb.com/title/tt3480822/
+76,Fantastic Beasts: The Crimes of Grindelwald,1500,wizard,Adventure,134,2018,6.5,2.39,350,http://www.imdb.com/title/tt4123430/
+77,Onward,762,,Animation,102,2020,7.4,2.39,326,http://www.imdb.com/title/tt7146812/
+78,Mulan,2900,,Action,115,2020,5.7,2.39,255,http://www.imdb.com/title/tt4566758/
+79,The Suicide Squad,3200,,Action,132,2021,7.3,1.9,353,http://www.imdb.com/title/tt6334354/
+80,Avengers: Endgame,9300,time travel,Action,181,2019,8.4,,583,http://www.imdb.com/title/tt4154796/
+81,Avengers: Infinity War,4400,death of recurring character,Action,149,2018,8.4,,624,http://www.imdb.com/title/tt4154756/
+82,Star Wars: Episode IX - The Rise of Skywalker,7900,evil,Action,141,2019,6.5,2.39,518,http://www.imdb.com/title/tt2527338/
+83,Black Panther,3400,marvel cinematic universe,Action,134,2018,7.3,2.39,505,http://www.imdb.com/title/tt1825683/
+84,Incredibles 2,1100,,Animation,118,2018,7.6,2.39,405,http://www.imdb.com/title/tt3606756/
+85,Black Widow,2900,superheroine,Action,134,2021,6.7,2.39,364,http://www.imdb.com/title/tt3480822/
+86,Fantastic Beasts: The Crimes of Grindelwald,1500,wizard,Adventure,134,2018,6.5,2.39,350,http://www.imdb.com/title/tt4123430/
+87,Onward,762,,Animation,102,2020,7.4,2.39,326,http://www.imdb.com/title/tt7146812/
+88,Mulan,2900,,Action,115,2020,5.7,2.39,255,http://www.imdb.com/title/tt4566758/
+89,The Suicide Squad,3200,,Action,132,2021,7.3,1.9,353,http://www.imdb.com/title/tt6334354/
+90,Avengers: Endgame,9300,time travel,Action,181,2019,8.4,,583,http://www.imdb.com/title/tt4154796/
+91,Avengers: Infinity War,4400,death of recurring character,Action,149,2018,8.4,,624,http://www.imdb.com/title/tt4154756/
+92,Star Wars: Episode IX - The Rise of Skywalker,7900,evil,Action,141,2019,6.5,2.39,518,http://www.imdb.com/title/tt2527338/
+93,Black Panther,3400,marvel cinematic universe,Action,134,2018,7.3,2.39,505,http://www.imdb.com/title/tt1825683/
+94,Incredibles 2,1100,,Animation,118,2018,7.6,2.39,405,http://www.imdb.com/title/tt3606756/
+95,Black Widow,2900,superheroine,Action,134,2021,6.7,2.39,364,http://www.imdb.com/title/tt3480822/
+96,Fantastic Beasts: The Crimes of Grindelwald,1500,wizard,Adventure,134,2018,6.5,2.39,350,http://www.imdb.com/title/tt4123430/
+97,Onward,762,,Animation,102,2020,7.4,2.39,326,http://www.imdb.com/title/tt7146812/
+98,Mulan,2900,,Action,115,2020,5.7,2.39,255,http://www.imdb.com/title/tt4566758/
+99,The Suicide Squad,3200,,Action,132,2021,7.3,1.9,353,http://www.imdb.com/title/tt6334354/
+100,Avengers: Endgame,9300,time travel,Action,181,2019,8.4,,583,http://www.imdb.com/title/tt4154796/
+101,Avengers: Infinity War,4400,death of recurring character,Action,149,2018,8.4,,624,http://www.imdb.com/title/tt4154756/
+102,Star Wars: Episode IX - The Rise of Skywalker,7900,evil,Action,141,2019,6.5,2.39,518,http://www.imdb.com/title/tt2527338/
+103,Black Panther,3400,marvel cinematic universe,Action,134,2018,7.3,2.39,505,http://www.imdb.com/title/tt1825683/
+104,Incredibles 2,1100,,Animation,118,2018,7.6,2.39,405,http://www.imdb.com/title/tt3606756/
+105,Black Widow,2900,superheroine,Action,134,2021,6.7,2.39,364,http://www.imdb.com/title/tt3480822/
+106,Fantastic Beasts: The Crimes of Grindelwald,1500,wizard,Adventure,134,2018,6.5,2.39,350,http://www.imdb.com/title/tt4123430/
+107,Onward,762,,Animation,102,2020,7.4,2.39,326,http://www.imdb.com/title/tt7146812/
+108,Mulan,2900,,Action,115,2020,5.7,2.39,255,http://www.imdb.com/title/tt4566758/
+109,The Suicide Squad,3200,,Action,132,2021,7.3,1.9,353,http://www.imdb.com/title/tt6334354/
+110,Avengers: Endgame,9300,time travel,Action,181,2019,8.4,,583,http://www.imdb.com/title/tt4154796/
+111,Avengers: Infinity War,4400,death of recurring character,Action,149,2018,8.4,,624,http://www.imdb.com/title/tt4154756/
+112,Star Wars: Episode IX - The Rise of Skywalker,7900,evil,Action,141,2019,6.5,2.39,518,http://www.imdb.com/title/tt2527338/
+113,Black Panther,3400,marvel cinematic universe,Action,134,2018,7.3,2.39,505,http://www.imdb.com/title/tt1825683/
+114,Incredibles 2,1100,,Animation,118,2018,7.6,2.39,405,http://www.imdb.com/title/tt3606756/
+115,Black Widow,2900,superheroine,Action,134,2021,6.7,2.39,364,http://www.imdb.com/title/tt3480822/
+116,Fantastic Beasts: The Crimes of Grindelwald,1500,wizard,Adventure,134,2018,6.5,2.39,350,http://www.imdb.com/title/tt4123430/
+117,Onward,762,,Animation,102,2020,7.4,2.39,326,http://www.imdb.com/title/tt7146812/
+118,Mulan,2900,,Action,115,2020,5.7,2.39,255,http://www.imdb.com/title/tt4566758/
+119,The Suicide Squad,3200,,Action,132,2021,7.3,1.9,353,http://www.imdb.com/title/tt6334354/
+120,Avengers: Endgame,9300,time travel,Action,181,2019,8.4,,583,http://www.imdb.com/title/tt4154796/
+121,Avengers: Infinity War,4400,death of recurring character,Action,149,2018,8.4,,624,http://www.imdb.com/title/tt4154756/
+122,Star Wars: Episode IX - The Rise of Skywalker,7900,evil,Action,141,2019,6.5,2.39,518,http://www.imdb.com/title/tt2527338/
+123,Black Panther,3400,marvel cinematic universe,Action,134,2018,7.3,2.39,505,http://www.imdb.com/title/tt1825683/
+124,Incredibles 2,1100,,Animation,118,2018,7.6,2.39,405,http://www.imdb.com/title/tt3606756/
+125,Black Widow,2900,superheroine,Action,134,2021,6.7,2.39,364,http://www.imdb.com/title/tt3480822/
+126,Fantastic Beasts: The Crimes of Grindelwald,1500,wizard,Adventure,134,2018,6.5,2.39,350,http://www.imdb.com/title/tt4123430/
+127,Onward,762,,Animation,102,2020,7.4,2.39,326,http://www.imdb.com/title/tt7146812/
+128,Mulan,2900,,Action,115,2020,5.7,2.39,255,http://www.imdb.com/title/tt4566758/
+129,The Suicide Squad,3200,,Action,132,2021,7.3,1.9,353,http://www.imdb.com/title/tt6334354/
+130,Avengers: Endgame,9300,time travel,Action,181,2019,8.4,,583,http://www.imdb.com/title/tt4154796/
+131,Avengers: Infinity War,4400,death of recurring character,Action,149,2018,8.4,,624,http://www.imdb.com/title/tt4154756/
+132,Star Wars: Episode IX - The Rise of Skywalker,7900,evil,Action,141,2019,6.5,2.39,518,http://www.imdb.com/title/tt2527338/
+133,Black Panther,3400,marvel cinematic universe,Action,134,2018,7.3,2.39,505,http://www.imdb.com/title/tt1825683/
+134,Incredibles 2,1100,,Animation,118,2018,7.6,2.39,405,http://www.imdb.com/title/tt3606756/
+135,Black Widow,2900,superheroine,Action,134,2021,6.7,2.39,364,http://www.imdb.com/title/tt3480822/
+136,Fantastic Beasts: The Crimes of Grindelwald,1500,wizard,Adventure,134,2018,6.5,2.39,350,http://www.imdb.com/title/tt4123430/
+137,Onward,762,,Animation,102,2020,7.4,2.39,326,http://www.imdb.com/title/tt7146812/
+138,Mulan,2900,,Action,115,2020,5.7,2.39,255,http://www.imdb.com/title/tt4566758/
+139,The Suicide Squad,3200,,Action,132,2021,7.3,1.9,353,http://www.imdb.com/title/tt6334354/
+140,Avengers: Endgame,9300,time travel,Action,181,2019,8.4,,583,http://www.imdb.com/title/tt4154796/
+141,Avengers: Infinity War,4400,death of recurring character,Action,149,2018,8.4,,624,http://www.imdb.com/title/tt4154756/
+142,Star Wars: Episode IX - The Rise of Skywalker,7900,evil,Action,141,2019,6.5,2.39,518,http://www.imdb.com/title/tt2527338/
+143,Black Panther,3400,marvel cinematic universe,Action,134,2018,7.3,2.39,505,http://www.imdb.com/title/tt1825683/
+144,Incredibles 2,1100,,Animation,118,2018,7.6,2.39,405,http://www.imdb.com/title/tt3606756/
+145,Black Widow,2900,superheroine,Action,134,2021,6.7,2.39,364,http://www.imdb.com/title/tt3480822/
+146,Fantastic Beasts: The Crimes of Grindelwald,1500,wizard,Adventure,134,2018,6.5,2.39,350,http://www.imdb.com/title/tt4123430/
+147,Onward,762,,Animation,102,2020,7.4,2.39,326,http://www.imdb.com/title/tt7146812/
+148,Mulan,2900,,Action,115,2020,5.7,2.39,255,http://www.imdb.com/title/tt4566758/
+149,The Suicide Squad,3200,,Action,132,2021,7.3,1.9,353,http://www.imdb.com/title/tt6334354/
+150,Avengers: Endgame,9300,time travel,Action,181,2019,8.4,,583,http://www.imdb.com/title/tt4154796/
+151,Avengers: Infinity War,4400,death of recurring character,Action,149,2018,8.4,,624,http://www.imdb.com/title/tt4154756/
+152,Star Wars: Episode IX - The Rise of Skywalker,7900,evil,Action,141,2019,6.5,2.39,518,http://www.imdb.com/title/tt2527338/
+153,Black Panther,3400,marvel cinematic universe,Action,134,2018,7.3,2.39,505,http://www.imdb.com/title/tt1825683/
+154,Incredibles 2,1100,,Animation,118,2018,7.6,2.39,405,http://www.imdb.com/title/tt3606756/
+155,Black Widow,2900,superheroine,Action,134,2021,6.7,2.39,364,http://www.imdb.com/title/tt3480822/
+156,Fantastic Beasts: The Crimes of Grindelwald,1500,wizard,Adventure,134,2018,6.5,2.39,350,http://www.imdb.com/title/tt4123430/
+157,Onward,762,,Animation,102,2020,7.4,2.39,326,http://www.imdb.com/title/tt7146812/
+158,Mulan,2900,,Action,115,2020,5.7,2.39,255,http://www.imdb.com/title/tt4566758/
+159,The Suicide Squad,3200,,Action,132,2021,7.3,1.9,353,http://www.imdb.com/title/tt6334354/
+160,Avengers: Endgame,9300,time travel,Action,181,2019,8.4,,583,http://www.imdb.com/title/tt4154796/
+161,Avengers: Infinity War,4400,death of recurring character,Action,149,2018,8.4,,624,http://www.imdb.com/title/tt4154756/
+162,Star Wars: Episode IX - The Rise of Skywalker,7900,evil,Action,141,2019,6.5,2.39,518,http://www.imdb.com/title/tt2527338/
+163,Black Panther,3400,marvel cinematic universe,Action,134,2018,7.3,2.39,505,http://www.imdb.com/title/tt1825683/
+164,Incredibles 2,1100,,Animation,118,2018,7.6,2.39,405,http://www.imdb.com/title/tt3606756/
+165,Black Widow,2900,superheroine,Action,134,2021,6.7,2.39,364,http://www.imdb.com/title/tt3480822/
+166,Fantastic Beasts: The Crimes of Grindelwald,1500,wizard,Adventure,134,2018,6.5,2.39,350,http://www.imdb.com/title/tt4123430/
+167,Onward,762,,Animation,102,2020,7.4,2.39,326,http://www.imdb.com/title/tt7146812/
+168,Mulan,2900,,Action,115,2020,5.7,2.39,255,http://www.imdb.com/title/tt4566758/
+169,The Suicide Squad,3200,,Action,132,2021,7.3,1.9,353,http://www.imdb.com/title/tt6334354/
+170,Avengers: Endgame,9300,time travel,Action,181,2019,8.4,,583,http://www.imdb.com/title/tt4154796/
+171,Avengers: Infinity War,4400,death of recurring character,Action,149,2018,8.4,,624,http://www.imdb.com/title/tt4154756/
+172,Star Wars: Episode IX - The Rise of Skywalker,7900,evil,Action,141,2019,6.5,2.39,518,http://www.imdb.com/title/tt2527338/
+173,Black Panther,3400,marvel cinematic universe,Action,134,2018,7.3,2.39,505,http://www.imdb.com/title/tt1825683/
+174,Incredibles 2,1100,,Animation,118,2018,7.6,2.39,405,http://www.imdb.com/title/tt3606756/
+175,Black Widow,2900,superheroine,Action,134,2021,6.7,2.39,364,http://www.imdb.com/title/tt3480822/
+176,Fantastic Beasts: The Crimes of Grindelwald,1500,wizard,Adventure,134,2018,6.5,2.39,350,http://www.imdb.com/title/tt4123430/
+177,Onward,762,,Animation,102,2020,7.4,2.39,326,http://www.imdb.com/title/tt7146812/
+178,Mulan,2900,,Action,115,2020,5.7,2.39,255,http://www.imdb.com/title/tt4566758/
+179,The Suicide Squad,3200,,Action,132,2021,7.3,1.9,353,http://www.imdb.com/title/tt6334354/
+180,Avengers: Endgame,9300,time travel,Action,181,2019,8.4,,583,http://www.imdb.com/title/tt4154796/
+181,Avengers: Infinity War,4400,death of recurring character,Action,149,2018,8.4,,624,http://www.imdb.com/title/tt4154756/
+182,Star Wars: Episode IX - The Rise of Skywalker,7900,evil,Action,141,2019,6.5,2.39,518,http://www.imdb.com/title/tt2527338/
+183,Black Panther,3400,marvel cinematic universe,Action,134,2018,7.3,2.39,505,http://www.imdb.com/title/tt1825683/
+184,Incredibles 2,1100,,Animation,118,2018,7.6,2.39,405,http://www.imdb.com/title/tt3606756/
+185,Black Widow,2900,superheroine,Action,134,2021,6.7,2.39,364,http://www.imdb.com/title/tt3480822/
+186,Fantastic Beasts: The Crimes of Grindelwald,1500,wizard,Adventure,134,2018,6.5,2.39,350,http://www.imdb.com/title/tt4123430/
+187,Onward,762,,Animation,102,2020,7.4,2.39,326,http://www.imdb.com/title/tt7146812/
+188,Mulan,2900,,Action,115,2020,5.7,2.39,255,http://www.imdb.com/title/tt4566758/
+189,The Suicide Squad,3200,,Action,132,2021,7.3,1.9,353,http://www.imdb.com/title/tt6334354/
+190,Avengers: Endgame,9300,time travel,Action,181,2019,8.4,,583,http://www.imdb.com/title/tt4154796/
+191,Avengers: Infinity War,4400,death of recurring character,Action,149,2018,8.4,,624,http://www.imdb.com/title/tt4154756/
+192,Star Wars: Episode IX - The Rise of Skywalker,7900,evil,Action,141,2019,6.5,2.39,518,http://www.imdb.com/title/tt2527338/
+193,Black Panther,3400,marvel cinematic universe,Action,134,2018,7.3,2.39,505,http://www.imdb.com/title/tt1825683/
+194,Incredibles 2,1100,,Animation,118,2018,7.6,2.39,405,http://www.imdb.com/title/tt3606756/
+195,Black Widow,2900,superheroine,Action,134,2021,6.7,2.39,364,http://www.imdb.com/title/tt3480822/
+196,Fantastic Beasts: The Crimes of Grindelwald,1500,wizard,Adventure,134,2018,6.5,2.39,350,http://www.imdb.com/title/tt4123430/
+197,Onward,762,,Animation,102,2020,7.4,2.39,326,http://www.imdb.com/title/tt7146812/
+198,Mulan,2900,,Action,115,2020,5.7,2.39,255,http://www.imdb.com/title/tt4566758/
+199,The Suicide Squad,3200,,Action,132,2021,7.3,1.9,353,http://www.imdb.com/title/tt6334354/
+200,Avengers: Endgame,9300,time travel,Action,181,2019,8.4,,583,http://www.imdb.com/title/tt4154796/
+201,Avengers: Infinity War,4400,death of recurring character,Action,149,2018,8.4,,624,http://www.imdb.com/title/tt4154756/
+202,Star Wars: Episode IX - The Rise of Skywalker,7900,evil,Action,141,2019,6.5,2.39,518,http://www.imdb.com/title/tt2527338/
+203,Black Panther,3400,marvel cinematic universe,Action,134,2018,7.3,2.39,505,http://www.imdb.com/title/tt1825683/
+204,Incredibles 2,1100,,Animation,118,2018,7.6,2.39,405,http://www.imdb.com/title/tt3606756/
+205,Black Widow,2900,superheroine,Action,134,2021,6.7,2.39,364,http://www.imdb.com/title/tt3480822/
+206,Fantastic Beasts: The Crimes of Grindelwald,1500,wizard,Adventure,134,2018,6.5,2.39,350,http://www.imdb.com/title/tt4123430/
+207,Onward,762,,Animation,102,2020,7.4,2.39,326,http://www.imdb.com/title/tt7146812/
+208,Mulan,2900,,Action,115,2020,5.7,2.39,255,http://www.imdb.com/title/tt4566758/
+209,The Suicide Squad,3200,,Action,132,2021,7.3,1.9,353,http://www.imdb.com/title/tt6334354/
+210,Avengers: Endgame,9300,time travel,Action,181,2019,8.4,,583,http://www.imdb.com/title/tt4154796/
+211,Avengers: Infinity War,4400,death of recurring character,Action,149,2018,8.4,,624,http://www.imdb.com/title/tt4154756/
+212,Star Wars: Episode IX - The Rise of Skywalker,7900,evil,Action,141,2019,6.5,2.39,518,http://www.imdb.com/title/tt2527338/
+213,Black Panther,3400,marvel cinematic universe,Action,134,2018,7.3,2.39,505,http://www.imdb.com/title/tt1825683/
+214,Incredibles 2,1100,,Animation,118,2018,7.6,2.39,405,http://www.imdb.com/title/tt3606756/
+215,Black Widow,2900,superheroine,Action,134,2021,6.7,2.39,364,http://www.imdb.com/title/tt3480822/
+216,Fantastic Beasts: The Crimes of Grindelwald,1500,wizard,Adventure,134,2018,6.5,2.39,350,http://www.imdb.com/title/tt4123430/
+217,Onward,762,,Animation,102,2020,7.4,2.39,326,http://www.imdb.com/title/tt7146812/
+218,Mulan,2900,,Action,115,2020,5.7,2.39,255,http://www.imdb.com/title/tt4566758/
+219,The Suicide Squad,3200,,Action,132,2021,7.3,1.9,353,http://www.imdb.com/title/tt6334354/
+220,Avengers: Endgame,9300,time travel,Action,181,2019,8.4,,583,http://www.imdb.com/title/tt4154796/
+221,Avengers: Infinity War,4400,death of recurring character,Action,149,2018,8.4,,624,http://www.imdb.com/title/tt4154756/
+222,Star Wars: Episode IX - The Rise of Skywalker,7900,evil,Action,141,2019,6.5,2.39,518,http://www.imdb.com/title/tt2527338/
+223,Black Panther,3400,marvel cinematic universe,Action,134,2018,7.3,2.39,505,http://www.imdb.com/title/tt1825683/
+224,Incredibles 2,1100,,Animation,118,2018,7.6,2.39,405,http://www.imdb.com/title/tt3606756/
+225,Black Widow,2900,superheroine,Action,134,2021,6.7,2.39,364,http://www.imdb.com/title/tt3480822/
+226,Fantastic Beasts: The Crimes of Grindelwald,1500,wizard,Adventure,134,2018,6.5,2.39,350,http://www.imdb.com/title/tt4123430/
+227,Onward,762,,Animation,102,2020,7.4,2.39,326,http://www.imdb.com/title/tt7146812/
+228,Mulan,2900,,Action,115,2020,5.7,2.39,255,http://www.imdb.com/title/tt4566758/
+229,The Suicide Squad,3200,,Action,132,2021,7.3,1.9,353,http://www.imdb.com/title/tt6334354/
+230,Avengers: Endgame,9300,time travel,Action,181,2019,8.4,,583,http://www.imdb.com/title/tt4154796/
+231,Avengers: Infinity War,4400,death of recurring character,Action,149,2018,8.4,,624,http://www.imdb.com/title/tt4154756/
+232,Star Wars: Episode IX - The Rise of Skywalker,7900,evil,Action,141,2019,6.5,2.39,518,http://www.imdb.com/title/tt2527338/
+233,Black Panther,3400,marvel cinematic universe,Action,134,2018,7.3,2.39,505,http://www.imdb.com/title/tt1825683/
+234,Incredibles 2,1100,,Animation,118,2018,7.6,2.39,405,http://www.imdb.com/title/tt3606756/
+235,Black Widow,2900,superheroine,Action,134,2021,6.7,2.39,364,http://www.imdb.com/title/tt3480822/
+236,Fantastic Beasts: The Crimes of Grindelwald,1500,wizard,Adventure,134,2018,6.5,2.39,350,http://www.imdb.com/title/tt4123430/
+237,Onward,762,,Animation,102,2020,7.4,2.39,326,http://www.imdb.com/title/tt7146812/
+238,Mulan,2900,,Action,115,2020,5.7,2.39,255,http://www.imdb.com/title/tt4566758/
+239,The Suicide Squad,3200,,Action,132,2021,7.3,1.9,353,http://www.imdb.com/title/tt6334354/
+240,Avengers: Endgame,9300,time travel,Action,181,2019,8.4,,583,http://www.imdb.com/title/tt4154796/
+241,Avengers: Infinity War,4400,death of recurring character,Action,149,2018,8.4,,624,http://www.imdb.com/title/tt4154756/
+242,Star Wars: Episode IX - The Rise of Skywalker,7900,evil,Action,141,2019,6.5,2.39,518,http://www.imdb.com/title/tt2527338/
+243,Black Panther,3400,marvel cinematic universe,Action,134,2018,7.3,2.39,505,http://www.imdb.com/title/tt1825683/
+244,Incredibles 2,1100,,Animation,118,2018,7.6,2.39,405,http://www.imdb.com/title/tt3606756/
+245,Black Widow,2900,superheroine,Action,134,2021,6.7,2.39,364,http://www.imdb.com/title/tt3480822/
+246,Fantastic Beasts: The Crimes of Grindelwald,1500,wizard,Adventure,134,2018,6.5,2.39,350,http://www.imdb.com/title/tt4123430/
+247,Onward,762,,Animation,102,2020,7.4,2.39,326,http://www.imdb.com/title/tt7146812/
+248,Mulan,2900,,Action,115,2020,5.7,2.39,255,http://www.imdb.com/title/tt4566758/
+249,The Suicide Squad,3200,,Action,132,2021,7.3,1.9,353,http://www.imdb.com/title/tt6334354/
+250,Avengers: Endgame,9300,time travel,Action,181,2019,8.4,,583,http://www.imdb.com/title/tt4154796/
+251,Avengers: Infinity War,4400,death of recurring character,Action,149,2018,8.4,,624,http://www.imdb.com/title/tt4154756/
+252,Star Wars: Episode IX - The Rise of Skywalker,7900,evil,Action,141,2019,6.5,2.39,518,http://www.imdb.com/title/tt2527338/
+253,Black Panther,3400,marvel cinematic universe,Action,134,2018,7.3,2.39,505,http://www.imdb.com/title/tt1825683/
+254,Incredibles 2,1100,,Animation,118,2018,7.6,2.39,405,http://www.imdb.com/title/tt3606756/
+255,Black Widow,2900,superheroine,Action,134,2021,6.7,2.39,364,http://www.imdb.com/title/tt3480822/
+256,Fantastic Beasts: The Crimes of Grindelwald,1500,wizard,Adventure,134,2018,6.5,2.39,350,http://www.imdb.com/title/tt4123430/
+257,Onward,762,,Animation,102,2020,7.4,2.39,326,http://www.imdb.com/title/tt7146812/
+258,Mulan,2900,,Action,115,2020,5.7,2.39,255,http://www.imdb.com/title/tt4566758/
+259,The Suicide Squad,3200,,Action,132,2021,7.3,1.9,353,http://www.imdb.com/title/tt6334354/
+260,Avengers: Endgame,9300,time travel,Action,181,2019,8.4,,583,http://www.imdb.com/title/tt4154796/
+261,Avengers: Infinity War,4400,death of recurring character,Action,149,2018,8.4,,624,http://www.imdb.com/title/tt4154756/
+262,Star Wars: Episode IX - The Rise of Skywalker,7900,evil,Action,141,2019,6.5,2.39,518,http://www.imdb.com/title/tt2527338/
+263,Black Panther,3400,marvel cinematic universe,Action,134,2018,7.3,2.39,505,http://www.imdb.com/title/tt1825683/
+264,Incredibles 2,1100,,Animation,118,2018,7.6,2.39,405,http://www.imdb.com/title/tt3606756/
+265,Black Widow,2900,superheroine,Action,134,2021,6.7,2.39,364,http://www.imdb.com/title/tt3480822/
+266,Fantastic Beasts: The Crimes of Grindelwald,1500,wizard,Adventure,134,2018,6.5,2.39,350,http://www.imdb.com/title/tt4123430/
+267,Onward,762,,Animation,102,2020,7.4,2.39,326,http://www.imdb.com/title/tt7146812/
+268,Mulan,2900,,Action,115,2020,5.7,2.39,255,http://www.imdb.com/title/tt4566758/
+269,The Suicide Squad,3200,,Action,132,2021,7.3,1.9,353,http://www.imdb.com/title/tt6334354/
+270,Avengers: Endgame,9300,time travel,Action,181,2019,8.4,,583,http://www.imdb.com/title/tt4154796/
+271,Avengers: Infinity War,4400,death of recurring character,Action,149,2018,8.4,,624,http://www.imdb.com/title/tt4154756/
+272,Star Wars: Episode IX - The Rise of Skywalker,7900,evil,Action,141,2019,6.5,2.39,518,http://www.imdb.com/title/tt2527338/
+273,Black Panther,3400,marvel cinematic universe,Action,134,2018,7.3,2.39,505,http://www.imdb.com/title/tt1825683/
+274,Incredibles 2,1100,,Animation,118,2018,7.6,2.39,405,http://www.imdb.com/title/tt3606756/
+275,Black Widow,2900,superheroine,Action,134,2021,6.7,2.39,364,http://www.imdb.com/title/tt3480822/
+276,Fantastic Beasts: The Crimes of Grindelwald,1500,wizard,Adventure,134,2018,6.5,2.39,350,http://www.imdb.com/title/tt4123430/
+277,Onward,762,,Animation,102,2020,7.4,2.39,326,http://www.imdb.com/title/tt7146812/
+278,Mulan,2900,,Action,115,2020,5.7,2.39,255,http://www.imdb.com/title/tt4566758/
+279,The Suicide Squad,3200,,Action,132,2021,7.3,1.9,353,http://www.imdb.com/title/tt6334354/
+280,Avengers: Endgame,9300,time travel,Action,181,2019,8.4,,583,http://www.imdb.com/title/tt4154796/
+281,Avengers: Infinity War,4400,death of recurring character,Action,149,2018,8.4,,624,http://www.imdb.com/title/tt4154756/
+282,Star Wars: Episode IX - The Rise of Skywalker,7900,evil,Action,141,2019,6.5,2.39,518,http://www.imdb.com/title/tt2527338/
+283,Black Panther,3400,marvel cinematic universe,Action,134,2018,7.3,2.39,505,http://www.imdb.com/title/tt1825683/
+284,Incredibles 2,1100,,Animation,118,2018,7.6,2.39,405,http://www.imdb.com/title/tt3606756/
+285,Black Widow,2900,superheroine,Action,134,2021,6.7,2.39,364,http://www.imdb.com/title/tt3480822/
+286,Fantastic Beasts: The Crimes of Grindelwald,1500,wizard,Adventure,134,2018,6.5,2.39,350,http://www.imdb.com/title/tt4123430/
+287,Onward,762,,Animation,102,2020,7.4,2.39,326,http://www.imdb.com/title/tt7146812/
+288,Mulan,2900,,Action,115,2020,5.7,2.39,255,http://www.imdb.com/title/tt4566758/
+289,The Suicide Squad,3200,,Action,132,2021,7.3,1.9,353,http://www.imdb.com/title/tt6334354/
+290,Avengers: Endgame,9300,time travel,Action,181,2019,8.4,,583,http://www.imdb.com/title/tt4154796/
+291,Avengers: Infinity War,4400,death of recurring character,Action,149,2018,8.4,,624,http://www.imdb.com/title/tt4154756/
+292,Star Wars: Episode IX - The Rise of Skywalker,7900,evil,Action,141,2019,6.5,2.39,518,http://www.imdb.com/title/tt2527338/
+293,Black Panther,3400,marvel cinematic universe,Action,134,2018,7.3,2.39,505,http://www.imdb.com/title/tt1825683/
+294,Incredibles 2,1100,,Animation,118,2018,7.6,2.39,405,http://www.imdb.com/title/tt3606756/
+295,Black Widow,2900,superheroine,Action,134,2021,6.7,2.39,364,http://www.imdb.com/title/tt3480822/
+296,Fantastic Beasts: The Crimes of Grindelwald,1500,wizard,Adventure,134,2018,6.5,2.39,350,http://www.imdb.com/title/tt4123430/
+297,Onward,762,,Animation,102,2020,7.4,2.39,326,http://www.imdb.com/title/tt7146812/
+298,Mulan,2900,,Action,115,2020,5.7,2.39,255,http://www.imdb.com/title/tt4566758/
+299,The Suicide Squad,3200,,Action,132,2021,7.3,1.9,353,http://www.imdb.com/title/tt6334354/
+300,Avengers: Endgame,9300,time travel,Action,181,2019,8.4,,583,http://www.imdb.com/title/tt4154796/
+301,Avengers: Infinity War,4400,death of recurring character,Action,149,2018,8.4,,624,http://www.imdb.com/title/tt4154756/
+302,Star Wars: Episode IX - The Rise of Skywalker,7900,evil,Action,141,2019,6.5,2.39,518,http://www.imdb.com/title/tt2527338/
+303,Black Panther,3400,marvel cinematic universe,Action,134,2018,7.3,2.39,505,http://www.imdb.com/title/tt1825683/
+304,Incredibles 2,1100,,Animation,118,2018,7.6,2.39,405,http://www.imdb.com/title/tt3606756/
+305,Black Widow,2900,superheroine,Action,134,2021,6.7,2.39,364,http://www.imdb.com/title/tt3480822/
+306,Fantastic Beasts: The Crimes of Grindelwald,1500,wizard,Adventure,134,2018,6.5,2.39,350,http://www.imdb.com/title/tt4123430/
+307,Onward,762,,Animation,102,2020,7.4,2.39,326,http://www.imdb.com/title/tt7146812/
+308,Mulan,2900,,Action,115,2020,5.7,2.39,255,http://www.imdb.com/title/tt4566758/
+309,The Suicide Squad,3200,,Action,132,2021,7.3,1.9,353,http://www.imdb.com/title/tt6334354/
+310,Avengers: Endgame,9300,time travel,Action,181,2019,8.4,,583,http://www.imdb.com/title/tt4154796/
+311,Avengers: Infinity War,4400,death of recurring character,Action,149,2018,8.4,,624,http://www.imdb.com/title/tt4154756/
+312,Star Wars: Episode IX - The Rise of Skywalker,7900,evil,Action,141,2019,6.5,2.39,518,http://www.imdb.com/title/tt2527338/
+313,Black Panther,3400,marvel cinematic universe,Action,134,2018,7.3,2.39,505,http://www.imdb.com/title/tt1825683/
+314,Incredibles 2,1100,,Animation,118,2018,7.6,2.39,405,http://www.imdb.com/title/tt3606756/
+315,Black Widow,2900,superheroine,Action,134,2021,6.7,2.39,364,http://www.imdb.com/title/tt3480822/
+316,Fantastic Beasts: The Crimes of Grindelwald,1500,wizard,Adventure,134,2018,6.5,2.39,350,http://www.imdb.com/title/tt4123430/
+317,Onward,762,,Animation,102,2020,7.4,2.39,326,http://www.imdb.com/title/tt7146812/
+318,Mulan,2900,,Action,115,2020,5.7,2.39,255,http://www.imdb.com/title/tt4566758/
+319,The Suicide Squad,3200,,Action,132,2021,7.3,1.9,353,http://www.imdb.com/title/tt6334354/
+320,Avengers: Endgame,9300,time travel,Action,181,2019,8.4,,583,http://www.imdb.com/title/tt4154796/
+321,Avengers: Infinity War,4400,death of recurring character,Action,149,2018,8.4,,624,http://www.imdb.com/title/tt4154756/
+322,Star Wars: Episode IX - The Rise of Skywalker,7900,evil,Action,141,2019,6.5,2.39,518,http://www.imdb.com/title/tt2527338/
+323,Black Panther,3400,marvel cinematic universe,Action,134,2018,7.3,2.39,505,http://www.imdb.com/title/tt1825683/
+324,Incredibles 2,1100,,Animation,118,2018,7.6,2.39,405,http://www.imdb.com/title/tt3606756/
+325,Black Widow,2900,superheroine,Action,134,2021,6.7,2.39,364,http://www.imdb.com/title/tt3480822/
+326,Fantastic Beasts: The Crimes of Grindelwald,1500,wizard,Adventure,134,2018,6.5,2.39,350,http://www.imdb.com/title/tt4123430/
+327,Onward,762,,Animation,102,2020,7.4,2.39,326,http://www.imdb.com/title/tt7146812/
+328,Mulan,2900,,Action,115,2020,5.7,2.39,255,http://www.imdb.com/title/tt4566758/
+329,The Suicide Squad,3200,,Action,132,2021,7.3,1.9,353,http://www.imdb.com/title/tt6334354/
+330,Avengers: Endgame,9300,time travel,Action,181,2019,8.4,,583,http://www.imdb.com/title/tt4154796/
+331,Avengers: Infinity War,4400,death of recurring character,Action,149,2018,8.4,,624,http://www.imdb.com/title/tt4154756/
+332,Star Wars: Episode IX - The Rise of Skywalker,7900,evil,Action,141,2019,6.5,2.39,518,http://www.imdb.com/title/tt2527338/
+333,Black Panther,3400,marvel cinematic universe,Action,134,2018,7.3,2.39,505,http://www.imdb.com/title/tt1825683/
+334,Incredibles 2,1100,,Animation,118,2018,7.6,2.39,405,http://www.imdb.com/title/tt3606756/
+335,Black Widow,2900,superheroine,Action,134,2021,6.7,2.39,364,http://www.imdb.com/title/tt3480822/
+336,Fantastic Beasts: The Crimes of Grindelwald,1500,wizard,Adventure,134,2018,6.5,2.39,350,http://www.imdb.com/title/tt4123430/
+337,Onward,762,,Animation,102,2020,7.4,2.39,326,http://www.imdb.com/title/tt7146812/
+338,Mulan,2900,,Action,115,2020,5.7,2.39,255,http://www.imdb.com/title/tt4566758/
+339,The Suicide Squad,3200,,Action,132,2021,7.3,1.9,353,http://www.imdb.com/title/tt6334354/
+340,Avengers: Endgame,9300,time travel,Action,181,2019,8.4,,583,http://www.imdb.com/title/tt4154796/
+341,Avengers: Infinity War,4400,death of recurring character,Action,149,2018,8.4,,624,http://www.imdb.com/title/tt4154756/
+342,Star Wars: Episode IX - The Rise of Skywalker,7900,evil,Action,141,2019,6.5,2.39,518,http://www.imdb.com/title/tt2527338/
+343,Black Panther,3400,marvel cinematic universe,Action,134,2018,7.3,2.39,505,http://www.imdb.com/title/tt1825683/
+344,Incredibles 2,1100,,Animation,118,2018,7.6,2.39,405,http://www.imdb.com/title/tt3606756/
+345,Black Widow,2900,superheroine,Action,134,2021,6.7,2.39,364,http://www.imdb.com/title/tt3480822/
+346,Fantastic Beasts: The Crimes of Grindelwald,1500,wizard,Adventure,134,2018,6.5,2.39,350,http://www.imdb.com/title/tt4123430/
+347,Onward,762,,Animation,102,2020,7.4,2.39,326,http://www.imdb.com/title/tt7146812/
+348,Mulan,2900,,Action,115,2020,5.7,2.39,255,http://www.imdb.com/title/tt4566758/
+349,The Suicide Squad,3200,,Action,132,2021,7.3,1.9,353,http://www.imdb.com/title/tt6334354/
+350,Avengers: Endgame,9300,time travel,Action,181,2019,8.4,,583,http://www.imdb.com/title/tt4154796/
+351,Avengers: Infinity War,4400,death of recurring character,Action,149,2018,8.4,,624,http://www.imdb.com/title/tt4154756/
+352,Star Wars: Episode IX - The Rise of Skywalker,7900,evil,Action,141,2019,6.5,2.39,518,http://www.imdb.com/title/tt2527338/
+353,Black Panther,3400,marvel cinematic universe,Action,134,2018,7.3,2.39,505,http://www.imdb.com/title/tt1825683/
+354,Incredibles 2,1100,,Animation,118,2018,7.6,2.39,405,http://www.imdb.com/title/tt3606756/
+355,Black Widow,2900,superheroine,Action,134,2021,6.7,2.39,364,http://www.imdb.com/title/tt3480822/
+356,Fantastic Beasts: The Crimes of Grindelwald,1500,wizard,Adventure,134,2018,6.5,2.39,350,http://www.imdb.com/title/tt4123430/
+357,Onward,762,,Animation,102,2020,7.4,2.39,326,http://www.imdb.com/title/tt7146812/
+358,Mulan,2900,,Action,115,2020,5.7,2.39,255,http://www.imdb.com/title/tt4566758/
+359,The Suicide Squad,3200,,Action,132,2021,7.3,1.9,353,http://www.imdb.com/title/tt6334354/
+360,Avengers: Endgame,9300,time travel,Action,181,2019,8.4,,583,http://www.imdb.com/title/tt4154796/
+361,Avengers: Infinity War,4400,death of recurring character,Action,149,2018,8.4,,624,http://www.imdb.com/title/tt4154756/
+362,Star Wars: Episode IX - The Rise of Skywalker,7900,evil,Action,141,2019,6.5,2.39,518,http://www.imdb.com/title/tt2527338/
+363,Black Panther,3400,marvel cinematic universe,Action,134,2018,7.3,2.39,505,http://www.imdb.com/title/tt1825683/
+364,Incredibles 2,1100,,Animation,118,2018,7.6,2.39,405,http://www.imdb.com/title/tt3606756/
+365,Black Widow,2900,superheroine,Action,134,2021,6.7,2.39,364,http://www.imdb.com/title/tt3480822/
+366,Fantastic Beasts: The Crimes of Grindelwald,1500,wizard,Adventure,134,2018,6.5,2.39,350,http://www.imdb.com/title/tt4123430/
+367,Onward,762,,Animation,102,2020,7.4,2.39,326,http://www.imdb.com/title/tt7146812/
+368,Mulan,2900,,Action,115,2020,5.7,2.39,255,http://www.imdb.com/title/tt4566758/
+369,The Suicide Squad,3200,,Action,132,2021,7.3,1.9,353,http://www.imdb.com/title/tt6334354/
+370,Avengers: Endgame,9300,time travel,Action,181,2019,8.4,,583,http://www.imdb.com/title/tt4154796/
+371,Avengers: Infinity War,4400,death of recurring character,Action,149,2018,8.4,,624,http://www.imdb.com/title/tt4154756/
+372,Star Wars: Episode IX - The Rise of Skywalker,7900,evil,Action,141,2019,6.5,2.39,518,http://www.imdb.com/title/tt2527338/
+373,Black Panther,3400,marvel cinematic universe,Action,134,2018,7.3,2.39,505,http://www.imdb.com/title/tt1825683/
+374,Incredibles 2,1100,,Animation,118,2018,7.6,2.39,405,http://www.imdb.com/title/tt3606756/
+375,Black Widow,2900,superheroine,Action,134,2021,6.7,2.39,364,http://www.imdb.com/title/tt3480822/
+376,Fantastic Beasts: The Crimes of Grindelwald,1500,wizard,Adventure,134,2018,6.5,2.39,350,http://www.imdb.com/title/tt4123430/
+377,Onward,762,,Animation,102,2020,7.4,2.39,326,http://www.imdb.com/title/tt7146812/
+378,Mulan,2900,,Action,115,2020,5.7,2.39,255,http://www.imdb.com/title/tt4566758/
+379,The Suicide Squad,3200,,Action,132,2021,7.3,1.9,353,http://www.imdb.com/title/tt6334354/
+380,Avengers: Endgame,9300,time travel,Action,181,2019,8.4,,583,http://www.imdb.com/title/tt4154796/
+381,Avengers: Infinity War,4400,death of recurring character,Action,149,2018,8.4,,624,http://www.imdb.com/title/tt4154756/
+382,Star Wars: Episode IX - The Rise of Skywalker,7900,evil,Action,141,2019,6.5,2.39,518,http://www.imdb.com/title/tt2527338/
+383,Black Panther,3400,marvel cinematic universe,Action,134,2018,7.3,2.39,505,http://www.imdb.com/title/tt1825683/
+384,Incredibles 2,1100,,Animation,118,2018,7.6,2.39,405,http://www.imdb.com/title/tt3606756/
+385,Black Widow,2900,superheroine,Action,134,2021,6.7,2.39,364,http://www.imdb.com/title/tt3480822/
+386,Fantastic Beasts: The Crimes of Grindelwald,1500,wizard,Adventure,134,2018,6.5,2.39,350,http://www.imdb.com/title/tt4123430/
+387,Onward,762,,Animation,102,2020,7.4,2.39,326,http://www.imdb.com/title/tt7146812/
+388,Mulan,2900,,Action,115,2020,5.7,2.39,255,http://www.imdb.com/title/tt4566758/
+389,The Suicide Squad,3200,,Action,132,2021,7.3,1.9,353,http://www.imdb.com/title/tt6334354/
+390,Avengers: Endgame,9300,time travel,Action,181,2019,8.4,,583,http://www.imdb.com/title/tt4154796/
+391,Avengers: Infinity War,4400,death of recurring character,Action,149,2018,8.4,,624,http://www.imdb.com/title/tt4154756/
+392,Star Wars: Episode IX - The Rise of Skywalker,7900,evil,Action,141,2019,6.5,2.39,518,http://www.imdb.com/title/tt2527338/
+393,Black Panther,3400,marvel cinematic universe,Action,134,2018,7.3,2.39,505,http://www.imdb.com/title/tt1825683/
+394,Incredibles 2,1100,,Animation,118,2018,7.6,2.39,405,http://www.imdb.com/title/tt3606756/
+395,Black Widow,2900,superheroine,Action,134,2021,6.7,2.39,364,http://www.imdb.com/title/tt3480822/
+396,Fantastic Beasts: The Crimes of Grindelwald,1500,wizard,Adventure,134,2018,6.5,2.39,350,http://www.imdb.com/title/tt4123430/
+397,Onward,762,,Animation,102,2020,7.4,2.39,326,http://www.imdb.com/title/tt7146812/
+398,Mulan,2900,,Action,115,2020,5.7,2.39,255,http://www.imdb.com/title/tt4566758/
+399,The Suicide Squad,3200,,Action,132,2021,7.3,1.9,353,http://www.imdb.com/title/tt6334354/
+400,Avengers: Endgame,9300,time travel,Action,181,2019,8.4,,583,http://www.imdb.com/title/tt4154796/
+401,Avengers: Infinity War,4400,death of recurring character,Action,149,2018,8.4,,624,http://www.imdb.com/title/tt4154756/
+402,Star Wars: Episode IX - The Rise of Skywalker,7900,evil,Action,141,2019,6.5,2.39,518,http://www.imdb.com/title/tt2527338/
+403,Black Panther,3400,marvel cinematic universe,Action,134,2018,7.3,2.39,505,http://www.imdb.com/title/tt1825683/
+404,Incredibles 2,1100,,Animation,118,2018,7.6,2.39,405,http://www.imdb.com/title/tt3606756/
+405,Black Widow,2900,superheroine,Action,134,2021,6.7,2.39,364,http://www.imdb.com/title/tt3480822/
+406,Fantastic Beasts: The Crimes of Grindelwald,1500,wizard,Adventure,134,2018,6.5,2.39,350,http://www.imdb.com/title/tt4123430/
+407,Onward,762,,Animation,102,2020,7.4,2.39,326,http://www.imdb.com/title/tt7146812/
+408,Mulan,2900,,Action,115,2020,5.7,2.39,255,http://www.imdb.com/title/tt4566758/
+409,The Suicide Squad,3200,,Action,132,2021,7.3,1.9,353,http://www.imdb.com/title/tt6334354/
+410,Avengers: Endgame,9300,time travel,Action,181,2019,8.4,,583,http://www.imdb.com/title/tt4154796/
+411,Avengers: Infinity War,4400,death of recurring character,Action,149,2018,8.4,,624,http://www.imdb.com/title/tt4154756/
+412,Star Wars: Episode IX - The Rise of Skywalker,7900,evil,Action,141,2019,6.5,2.39,518,http://www.imdb.com/title/tt2527338/
+413,Black Panther,3400,marvel cinematic universe,Action,134,2018,7.3,2.39,505,http://www.imdb.com/title/tt1825683/
+414,Incredibles 2,1100,,Animation,118,2018,7.6,2.39,405,http://www.imdb.com/title/tt3606756/
+415,Black Widow,2900,superheroine,Action,134,2021,6.7,2.39,364,http://www.imdb.com/title/tt3480822/
+416,Fantastic Beasts: The Crimes of Grindelwald,1500,wizard,Adventure,134,2018,6.5,2.39,350,http://www.imdb.com/title/tt4123430/
+417,Onward,762,,Animation,102,2020,7.4,2.39,326,http://www.imdb.com/title/tt7146812/
+418,Mulan,2900,,Action,115,2020,5.7,2.39,255,http://www.imdb.com/title/tt4566758/
+419,The Suicide Squad,3200,,Action,132,2021,7.3,1.9,353,http://www.imdb.com/title/tt6334354/
+420,Avengers: Endgame,9300,time travel,Action,181,2019,8.4,,583,http://www.imdb.com/title/tt4154796/
+421,Avengers: Infinity War,4400,death of recurring character,Action,149,2018,8.4,,624,http://www.imdb.com/title/tt4154756/
+422,Star Wars: Episode IX - The Rise of Skywalker,7900,evil,Action,141,2019,6.5,2.39,518,http://www.imdb.com/title/tt2527338/
+423,Black Panther,3400,marvel cinematic universe,Action,134,2018,7.3,2.39,505,http://www.imdb.com/title/tt1825683/
+424,Incredibles 2,1100,,Animation,118,2018,7.6,2.39,405,http://www.imdb.com/title/tt3606756/
+425,Black Widow,2900,superheroine,Action,134,2021,6.7,2.39,364,http://www.imdb.com/title/tt3480822/
+426,Fantastic Beasts: The Crimes of Grindelwald,1500,wizard,Adventure,134,2018,6.5,2.39,350,http://www.imdb.com/title/tt4123430/
+427,Onward,762,,Animation,102,2020,7.4,2.39,326,http://www.imdb.com/title/tt7146812/
+428,Mulan,2900,,Action,115,2020,5.7,2.39,255,http://www.imdb.com/title/tt4566758/
+429,The Suicide Squad,3200,,Action,132,2021,7.3,1.9,353,http://www.imdb.com/title/tt6334354/
+430,Avengers: Endgame,9300,time travel,Action,181,2019,8.4,,583,http://www.imdb.com/title/tt4154796/
+431,Avengers: Infinity War,4400,death of recurring character,Action,149,2018,8.4,,624,http://www.imdb.com/title/tt4154756/
+432,Star Wars: Episode IX - The Rise of Skywalker,7900,evil,Action,141,2019,6.5,2.39,518,http://www.imdb.com/title/tt2527338/
+433,Black Panther,3400,marvel cinematic universe,Action,134,2018,7.3,2.39,505,http://www.imdb.com/title/tt1825683/
+434,Incredibles 2,1100,,Animation,118,2018,7.6,2.39,405,http://www.imdb.com/title/tt3606756/
+435,Black Widow,2900,superheroine,Action,134,2021,6.7,2.39,364,http://www.imdb.com/title/tt3480822/
+436,Fantastic Beasts: The Crimes of Grindelwald,1500,wizard,Adventure,134,2018,6.5,2.39,350,http://www.imdb.com/title/tt4123430/
+437,Onward,762,,Animation,102,2020,7.4,2.39,326,http://www.imdb.com/title/tt7146812/
+438,Mulan,2900,,Action,115,2020,5.7,2.39,255,http://www.imdb.com/title/tt4566758/
+439,The Suicide Squad,3200,,Action,132,2021,7.3,1.9,353,http://www.imdb.com/title/tt6334354/
+440,Avengers: Endgame,9300,time travel,Action,181,2019,8.4,,583,http://www.imdb.com/title/tt4154796/
+441,Avengers: Infinity War,4400,death of recurring character,Action,149,2018,8.4,,624,http://www.imdb.com/title/tt4154756/
+442,Star Wars: Episode IX - The Rise of Skywalker,7900,evil,Action,141,2019,6.5,2.39,518,http://www.imdb.com/title/tt2527338/
+443,Black Panther,3400,marvel cinematic universe,Action,134,2018,7.3,2.39,505,http://www.imdb.com/title/tt1825683/
+444,Incredibles 2,1100,,Animation,118,2018,7.6,2.39,405,http://www.imdb.com/title/tt3606756/
+445,Black Widow,2900,superheroine,Action,134,2021,6.7,2.39,364,http://www.imdb.com/title/tt3480822/
+446,Fantastic Beasts: The Crimes of Grindelwald,1500,wizard,Adventure,134,2018,6.5,2.39,350,http://www.imdb.com/title/tt4123430/
+447,Onward,762,,Animation,102,2020,7.4,2.39,326,http://www.imdb.com/title/tt7146812/
+448,Mulan,2900,,Action,115,2020,5.7,2.39,255,http://www.imdb.com/title/tt4566758/
+449,The Suicide Squad,3200,,Action,132,2021,7.3,1.9,353,http://www.imdb.com/title/tt6334354/
+450,Avengers: Endgame,9300,time travel,Action,181,2019,8.4,,583,http://www.imdb.com/title/tt4154796/
+451,Avengers: Infinity War,4400,death of recurring character,Action,149,2018,8.4,,624,http://www.imdb.com/title/tt4154756/
+452,Star Wars: Episode IX - The Rise of Skywalker,7900,evil,Action,141,2019,6.5,2.39,518,http://www.imdb.com/title/tt2527338/
+453,Black Panther,3400,marvel cinematic universe,Action,134,2018,7.3,2.39,505,http://www.imdb.com/title/tt1825683/
+454,Incredibles 2,1100,,Animation,118,2018,7.6,2.39,405,http://www.imdb.com/title/tt3606756/
+455,Black Widow,2900,superheroine,Action,134,2021,6.7,2.39,364,http://www.imdb.com/title/tt3480822/
+456,Fantastic Beasts: The Crimes of Grindelwald,1500,wizard,Adventure,134,2018,6.5,2.39,350,http://www.imdb.com/title/tt4123430/
+457,Onward,762,,Animation,102,2020,7.4,2.39,326,http://www.imdb.com/title/tt7146812/
+458,Mulan,2900,,Action,115,2020,5.7,2.39,255,http://www.imdb.com/title/tt4566758/
+459,The Suicide Squad,3200,,Action,132,2021,7.3,1.9,353,http://www.imdb.com/title/tt6334354/
+460,Avengers: Endgame,9300,time travel,Action,181,2019,8.4,,583,http://www.imdb.com/title/tt4154796/
+461,Avengers: Infinity War,4400,death of recurring character,Action,149,2018,8.4,,624,http://www.imdb.com/title/tt4154756/
+462,Star Wars: Episode IX - The Rise of Skywalker,7900,evil,Action,141,2019,6.5,2.39,518,http://www.imdb.com/title/tt2527338/
+463,Black Panther,3400,marvel cinematic universe,Action,134,2018,7.3,2.39,505,http://www.imdb.com/title/tt1825683/
+464,Incredibles 2,1100,,Animation,118,2018,7.6,2.39,405,http://www.imdb.com/title/tt3606756/
+465,Black Widow,2900,superheroine,Action,134,2021,6.7,2.39,364,http://www.imdb.com/title/tt3480822/
+466,Fantastic Beasts: The Crimes of Grindelwald,1500,wizard,Adventure,134,2018,6.5,2.39,350,http://www.imdb.com/title/tt4123430/
+467,Onward,762,,Animation,102,2020,7.4,2.39,326,http://www.imdb.com/title/tt7146812/
+468,Mulan,2900,,Action,115,2020,5.7,2.39,255,http://www.imdb.com/title/tt4566758/
+469,The Suicide Squad,3200,,Action,132,2021,7.3,1.9,353,http://www.imdb.com/title/tt6334354/
+470,Avengers: Endgame,9300,time travel,Action,181,2019,8.4,,583,http://www.imdb.com/title/tt4154796/
+471,Avengers: Infinity War,4400,death of recurring character,Action,149,2018,8.4,,624,http://www.imdb.com/title/tt4154756/
+472,Star Wars: Episode IX - The Rise of Skywalker,7900,evil,Action,141,2019,6.5,2.39,518,http://www.imdb.com/title/tt2527338/
+473,Black Panther,3400,marvel cinematic universe,Action,134,2018,7.3,2.39,505,http://www.imdb.com/title/tt1825683/
+474,Black Widow,2900,superheroine,Action,134,2021,6.7,2.39,364,http://www.imdb.com/title/tt3480822/
+475,Fantastic Beasts: The Crimes of Grindelwald,1500,wizard,Adventure,134,2018,6.5,2.39,350,http://www.imdb.com/title/tt4123430/
+476,Onward,762,,Animation,102,2020,7.4,2.39,326,http://www.imdb.com/title/tt7146812/
+477,Mulan,2900,,Action,115,2020,5.7,2.39,255,http://www.imdb.com/title/tt4566758/
+478,The Suicide Squad,3200,,Action,132,2021,7.3,1.9,353,http://www.imdb.com/title/tt6334354/
+479,Avengers: Endgame,9300,time travel,Action,181,2019,8.4,,583,http://www.imdb.com/title/tt4154796/
+480,Avengers: Infinity War,4400,death of recurring character,Action,149,2018,8.4,,624,http://www.imdb.com/title/tt4154756/
+481,Star Wars: Episode IX - The Rise of Skywalker,7900,evil,Action,141,2019,6.5,2.39,518,http://www.imdb.com/title/tt2527338/
+482,Black Panther,3400,marvel cinematic universe,Action,134,2018,7.3,2.39,505,http://www.imdb.com/title/tt1825683/
+483,Incredibles 2,1100,,Animation,118,2018,7.6,2.39,405,http://www.imdb.com/title/tt3606756/
+484,Black Widow,2900,superheroine,Action,134,2021,6.7,2.39,364,http://www.imdb.com/title/tt3480822/
+485,Fantastic Beasts: The Crimes of Grindelwald,1500,wizard,Adventure,134,2018,6.5,2.39,350,http://www.imdb.com/title/tt4123430/
+486,Onward,762,,Animation,102,2020,7.4,2.39,326,http://www.imdb.com/title/tt7146812/
+487,Mulan,2900,,Action,115,2020,5.7,2.39,255,http://www.imdb.com/title/tt4566758/
+488,The Suicide Squad,3200,,Action,132,2021,7.3,1.9,353,http://www.imdb.com/title/tt6334354/
