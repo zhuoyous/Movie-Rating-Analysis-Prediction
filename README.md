@@ -1,12 +1,12 @@
-# 🎬 Movie Rating Analysis & Prediction
+#  Movie Rating Analysis & Prediction
 
-## 📌 Overview
+##  Overview
 
 This project explores how key attributes of movies — such as **budget**, **genre**, **duration**, and **number of ratings** — influence **IMDb scores**. The goal is to identify what makes a movie highly rated and to **predict movie ratings** using machine learning techniques.
 
 ---
 
-## 🔍 Objectives
+##  Objectives
 
 - Scrape and clean real-world movie data from IMDb and other sources.
 - Perform exploratory data analysis to find insights about high-rated movies.
@@ -15,7 +15,7 @@ This project explores how key attributes of movies — such as **budget**, **gen
 
 ---
 
-## 🗃️ Dataset Summary
+##  Dataset Summary
 
 All cleaned data are stored in the `/data` folder:
 - `movie_api_top_250.json`
@@ -28,16 +28,16 @@ Data was scraped from the web and transformed into structured formats for analys
 
 ---
 
-## 🧪 Key Findings
+##  Key Findings
 
-- 🎥 Action movies dominate the top-rated and most-followed categories.
-- 🎨 Animation movies are shorter and tend to receive higher scores.
-- 💰 Budget and runtime are strong predictors of a film’s rating.
-- 🌲 Random Forest model achieved **95%+ accuracy** in predicting rating tiers.
+-  Action movies dominate the top-rated and most-followed categories.
+-  Animation movies are shorter and tend to receive higher scores.
+-  Budget and runtime are strong predictors of a film’s rating.
+-  Random Forest model achieved **95%+ accuracy** in predicting rating tiers.
 
 ---
 
-## ⚙️ How to Run
+##  How to Run
 
 ### 1. Install dependencies
 ```bash
@@ -56,7 +56,7 @@ Open `report.ipynb` in Jupyter Notebook to explore the full analysis and modelin
 
 ---
 
-## 📂 File Structure
+##  File Structure
 
 ```
 Zhuoyou-Shen-DSCI510-Project/
@@ -73,7 +73,7 @@ Zhuoyou-Shen-DSCI510-Project/
 
 ---
 
-## 🚧 Known Limitations
+##  Known Limitations
 
 - Web scraping may take more than 10 minutes.
 - Data may have missing fields depending on source availability.
@@ -81,7 +81,7 @@ Zhuoyou-Shen-DSCI510-Project/
 
 ---
 
-## 📈 Tools & Libraries Used
+##  Tools & Libraries Used
 
 - Python (Pandas, NumPy, Scikit-learn, Seaborn)
 - Requests & BeautifulSoup for web scraping
